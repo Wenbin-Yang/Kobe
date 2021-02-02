@@ -1,6 +1,6 @@
 ---
 title: '**Kobe Bryant Shot Selection**'
-author: "Xavier， Vivancos， García, Wenbin Yang"
+author: "Xavier, Vivancos, García, Wenbin Yang"
 date: "10/04/2020"
 
 ---
